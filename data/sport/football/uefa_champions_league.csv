@@ -1,0 +1,32 @@
+label,hdate,hdate_end,description,htext_end,colour,url
+2023: MNC,6 September 2022,10 June 2023,Manchester City,Manchester City 1-0 Inter Milan,#6CABDD ,https://en.wikipedia.org/wiki/2022%E2%80%9323_UEFA_Champions_League
+2022: RMD,14 September 2021,28 May 2022,Real Madrid,Real Madrid 1-0 Liverpool,#FEBE10 ,https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League
+2021: CHE,20 October 2020,29 May 2021,Chelsea,Chelsea 1-0 Manchester City,#034694,https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Champions_League
+2020: MUN,17 September 2019,23 August 2020,Bayern Munich,Bayern Munich 1-0 Paris Saint-Germain,#dc052d ,https://en.wikipedia.org/wiki/2019%E2%80%9320_UEFA_Champions_League
+2019: LIV,18 September 2018,1 June 2019,Liverpool,Liverpool 2-0 Tottenham Hotspur,#c8102E,https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League
+2018: RMD,12 September 2017,26 May 2018,Real Madrid,Real Madrid 3-1 Liverpool,#FEBE10 ,https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League
+2017: RMD,13 September 2016,3 June 2017,Real Madrid,Real Madrid 4-1 Juventus,#FEBE10 ,https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League
+2016: RMD,15 September 2015,28 May 2016,Real Madrid,Real Madrid 1-1 Atlético Madrid a.e.t. Pens 5-3,#FEBE10 ,https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League
+2015: BAR,16 September 2014, 6 June 2015,Barcelona,Barcelona 3-1 Juventus,#a50044,https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League
+2014: RMD,17 September 2013,24 May 2014,Real Madrid,Real Madrid 4-1 Atlético Madrid,#FEBE10 ,https://en.wikipedia.org/wiki/2013%E2%80%9314_UEFA_Champions_League
+2013: MUN,18 September 2012,25 May 2013,Bayern Munich,Bayern Munich 2-1 Borussia Dortmund,#dc052d ,https://en.wikipedia.org/wiki/2012%E2%80%9313_UEFA_Champions_League
+2012: CHE,13 September 2011,19 May 2012,Chelsea,Chelsea 1-1 Bayern Munich a.e.t Pens 4-3,#034694,https://en.wikipedia.org/wiki/2011%E2%80%9312_UEFA_Champions_League
+2011: BAR,14 September 2010,28 May 2011,Barcelona,Barcelona 3-1 Manchester United,#a50044,https://en.wikipedia.org/wiki/2010%E2%80%9311_UEFA_Champions_League
+2010: INT,15 September 2009,22 May 2010,Inter Milan,Inter Milan 2-0 Bayern Munich,#000000 ,https://en.wikipedia.org/wiki/2009%E2%80%9310_UEFA_Champions_League
+2009: BAR,16 September 2008,27 May 2009,Barcelona,Barcelona 2-0 Manchester United,#a50044,https://en.wikipedia.org/wiki/2008%E2%80%9309_UEFA_Champions_League
+2008: MNU,18 September 2007,21 May 2008,Manchester United ,Manchester United 1-1 Chelsea a.e.t Pens 6-5,#DA291C,https://en.wikipedia.org/wiki/2007%E2%80%9308_UEFA_Champions_League
+2007: MIL,12 September 2006,23 May 2007,A.C.Milan,A.C.Milan 2-1 Liverpool,#000000 ,https://en.wikipedia.org/wiki/2006%E2%80%9307_UEFA_Champions_League
+2006: BAR,13 September 2005,17 May 2006,Barcelona,Barcelona 2-1 Arsenal,#a50044,https://en.wikipedia.org/wiki/2005%E2%80%9306_UEFA_Champions_League
+2005: LIV,14 September 2004,25 May 2005,Liverpool,Liverpool 3-3 A.C.Milan a.e.t Pens 3-2,#c8102E,https://en.wikipedia.org/wiki/2004%E2%80%9305_UEFA_Champions_League
+2004: FCP,16 September 2003,26 May 2004,Porto,Porto 3-0 Monaco,#00428c,https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League
+2003: MIL,17 September 2002,28 May 2003,A.C.Milan,A.C.Milan 0-0 Juventus a.e.t. Pens 3-2,#000000 ,https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League
+2002: RMD,11 September 2001,15 May 2002,Real Madrid,Real Madrid 2-1 Bayer Leverkusen,#FEBE10 ,https://en.wikipedia.org/wiki/2001%E2%80%9302_UEFA_Champions_League
+2001: MUN,12 September 2000,23 May 2001,Bayern Munich,Bayern Munich 1-1 Valencia a.e.t Pens 5-4,#dc052d ,https://en.wikipedia.org/wiki/2000%E2%80%9301_UEFA_Champions_League
+2000: RMD,14 September 1999,24 May 2000,Real Madrid,Real Madrid 3-0 Valencia,#FEBE10 ,https://en.wikipedia.org/wiki/1999%E2%80%932000_UEFA_Champions_League
+1999: MNU,16 September 1998,26 May 1999,Manchester United ,Manchester United 2-1 Bayern Munich,#DA291C,https://en.wikipedia.org/wiki/1998%E2%80%9399_UEFA_Champions_League
+1998: RMD,17 September 1997,20 May 1998,Real Madrid,Real Madrid 1-0 Juventus,#FEBE10 ,https://en.wikipedia.org/wiki/1997%E2%80%9398_UEFA_Champions_League
+1997: DOR,11 September 1996,28 May 1997,Borussia Dortmund,Borussia Dortmund 3-1 Juventus,#FDE100 ,https://en.wikipedia.org/wiki/1996%E2%80%9397_UEFA_Champions_League
+1996: JUV,13 September 1995,22 May 1996,Juventus,Juventus 1-1 Ajax a.e.t Pens 4-2,#000000 ,https://en.wikipedia.org/wiki/1995%E2%80%9396_UEFA_Champions_League
+1995: AFC,14 September 1994,24 May 1995,Ajax,Ajax 1-0 A.C.Milan,#D2122E ,https://en.wikipedia.org/wiki/1994%E2%80%9395_UEFA_Champions_League
+1994: MIL,15 September 1993,18 May 1994,A.C.Milan,A.C.Milan 4-0 Barcelona,#000000 ,https://en.wikipedia.org/wiki/1993%E2%80%9394_UEFA_Champions_League
+1993: MAR,16 September 1992,26 May 1993,Marseille,Marseille 1-0 A.C.Milan,#2FAEE0 ,https://en.wikipedia.org/wiki/1992%E2%80%9393_UEFA_Champions_League
