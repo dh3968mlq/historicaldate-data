@@ -1,12 +1,16 @@
 abbreviation,team,colour
 ARG,Argentina,#43A1D5 
 BRA,Brazil,#19AE47 
+CZE,Czechoslovakia,#0060af
 DEN,Denmark,#CD181E 
 ENG,England,#EA1F29 
 FRA,France,#21304D 
 GER,Germany,#000000 
 GRE,Greece,#0D5EAF 
 ITA,Italy,#103cd6
+NED,Netherlands,#F36C21 
 POR,Portugal,#E42518 
 ESP,Spain,#8B0D11 
+URS,Soviet Union,#CE0000 
 URU,Uruguay,#55B5E5 
+FRG,W. Germany,#000000 
