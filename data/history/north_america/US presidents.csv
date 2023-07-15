@@ -1,17 +1,17 @@
 label,hdate,hdate_end,description,colour,url
-Washington,30 Apr 1789,4 Mar 1797,George Washington (1),gray,https://en.wikipedia.org/wiki/George_Washington
-John Adams,4 Mar 1797,4 Mar 1801,John Adams (2),gray,https://en.wikipedia.org/wiki/John_Adams
-Jefferson,4 Mar 1801,4 Mar 1809,Thomas Jefferson (3),gray,https://en.wikipedia.org/wiki/Thomas_Jefferson
-Madison,4 Mar 1809,4 Mar 1817,James Madison (4),gray,https://en.wikipedia.org/wiki/James_Madison
-Monroe,4 Mar 1817,4 Mar 1825,James Monroe (5),gray,https://en.wikipedia.org/wiki/James_Monroe
-John Quincy Adams,4 Mar 1825,4 Mar 1829,John Quincy Adams (6),gray,https://en.wikipedia.org/wiki/John_Quincy_Adams
+Washington,30 Apr 1789,4 Mar 1797,George Washington (1),darkgray,https://en.wikipedia.org/wiki/George_Washington
+John Adams,4 Mar 1797,4 Mar 1801,John Adams (2),darkgray,https://en.wikipedia.org/wiki/John_Adams
+Jefferson,4 Mar 1801,4 Mar 1809,Thomas Jefferson (3),darkgray,https://en.wikipedia.org/wiki/Thomas_Jefferson
+Madison,4 Mar 1809,4 Mar 1817,James Madison (4),darkgray,https://en.wikipedia.org/wiki/James_Madison
+Monroe,4 Mar 1817,4 Mar 1825,James Monroe (5),darkgray,https://en.wikipedia.org/wiki/James_Monroe
+John Quincy Adams,4 Mar 1825,4 Mar 1829,John Quincy Adams (6),darkgray,https://en.wikipedia.org/wiki/John_Quincy_Adams
 Jackson,4 Mar 1829,4 Mar 1837,Andrew Jackson (7),blue,https://en.wikipedia.org/wiki/Andrew_Jackson
 Van Buren,4 Mar 1837,4 Mar 1841,Martin Van Buren (8),blue,https://en.wikipedia.org/wiki/Martin_Van_Buren
-Harrison,4 Mar 1841,4 Apr 1841,William Henry Harrison (9),gray,https://en.wikipedia.org/wiki/William_Henry_Harrison
-Tyler,4 Apr 1841,4 Mar 1845,John Tyler (10),gray,https://en.wikipedia.org/wiki/John_Tyler
+Harrison,4 Mar 1841,4 Apr 1841,William Henry Harrison (9),darkgray,https://en.wikipedia.org/wiki/William_Henry_Harrison
+Tyler,4 Apr 1841,4 Mar 1845,John Tyler (10),darkgray,https://en.wikipedia.org/wiki/John_Tyler
 Polk,4 Mar 1845,4 Mar 1849,James K Polk (11),blue,https://en.wikipedia.org/wiki/James_K._Polk
-Taylor,4 Mar 1849,9 Jul 1850,Zachary Taylor (12),gray,https://en.wikipedia.org/wiki/Zachary_Taylor
-Fillmore,9 Jul 1850,4 Mar 1853,Millard Fillmore (13),gray,https://en.wikipedia.org/wiki/Millard_Fillmore
+Taylor,4 Mar 1849,9 Jul 1850,Zachary Taylor (12),darkgray,https://en.wikipedia.org/wiki/Zachary_Taylor
+Fillmore,9 Jul 1850,4 Mar 1853,Millard Fillmore (13),darkgray,https://en.wikipedia.org/wiki/Millard_Fillmore
 Pierce,4 Mar 1853,4 Mar 1857,Franklin Pierce (14),blue,https://en.wikipedia.org/wiki/Franklin_Pierce
 Buchanan,4 Mar 1857,4 Mar 1861,James Buchanan (15),blue,https://en.wikipedia.org/wiki/James_Buchanan
 Lincoln,4 Mar 1861,15 Apr 1865,Abraham Lincoln (16),red,https://en.wikipedia.org/wiki/Abraham_Lincoln
