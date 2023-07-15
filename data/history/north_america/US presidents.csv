@@ -1,0 +1,47 @@
+label,hdate,hdate_end,description,colour,url
+Washington,30 Apr 1789,4 Mar 1797,George Washington (1),gray,https://en.wikipedia.org/wiki/George_Washington
+John Adams,4 Mar 1797,4 Mar 1801,John Adams (2),gray,https://en.wikipedia.org/wiki/John_Adams
+Jefferson,4 Mar 1801,4 Mar 1809,Thomas Jefferson (3),gray,https://en.wikipedia.org/wiki/Thomas_Jefferson
+Madison,4 Mar 1809,4 Mar 1817,James Madison (4),gray,https://en.wikipedia.org/wiki/James_Madison
+Monroe,4 Mar 1817,4 Mar 1825,James Monroe (5),gray,https://en.wikipedia.org/wiki/James_Monroe
+John Quincy Adams,4 Mar 1825,4 Mar 1829,John Quincy Adams (6),gray,https://en.wikipedia.org/wiki/John_Quincy_Adams
+Jackson,4 Mar 1829,4 Mar 1837,Andrew Jackson (7),blue,https://en.wikipedia.org/wiki/Andrew_Jackson
+Van Buren,4 Mar 1837,4 Mar 1841,Martin Van Buren (8),blue,https://en.wikipedia.org/wiki/Martin_Van_Buren
+Harrison,4 Mar 1841,4 Apr 1841,William Henry Harrison (9),gray,https://en.wikipedia.org/wiki/William_Henry_Harrison
+Tyler,4 Apr 1841,4 Mar 1845,John Tyler (10),gray,https://en.wikipedia.org/wiki/John_Tyler
+Polk,4 Mar 1845,4 Mar 1849,James K Polk (11),blue,https://en.wikipedia.org/wiki/James_K._Polk
+Taylor,4 Mar 1849,9 Jul 1850,Zachary Taylor (12),gray,https://en.wikipedia.org/wiki/Zachary_Taylor
+Fillmore,9 Jul 1850,4 Mar 1853,Millard Fillmore (13),gray,https://en.wikipedia.org/wiki/Millard_Fillmore
+Pierce,4 Mar 1853,4 Mar 1857,Franklin Pierce (14),blue,https://en.wikipedia.org/wiki/Franklin_Pierce
+Buchanan,4 Mar 1857,4 Mar 1861,James Buchanan (15),blue,https://en.wikipedia.org/wiki/James_Buchanan
+Lincoln,4 Mar 1861,15 Apr 1865,Abraham Lincoln (16),red,https://en.wikipedia.org/wiki/Abraham_Lincoln
+Johnson,15 Apr 1865,4 Mar 1869,Andrew Johnson (17),blue,https://en.wikipedia.org/wiki/Andrew_Johnson
+Grant,4 Mar 1869,4 Mar 1877,Ulysses S Grant (18),red,https://en.wikipedia.org/wiki/Ulysses_S._Grant
+Hayes,4 Mar 1877,4 Mar 1881,Rutherford B Hayes (19),red,https://en.wikipedia.org/wiki/Rutherford_B._Hayes
+Garfield,4 Mar 1881,19 Sep 1881,James A Garfield (20),red,https://en.wikipedia.org/wiki/James_A._Garfield
+Arthur,19 Sep 1881,4 Mar 1885,Chester A Arthur (21),red,https://en.wikipedia.org/wiki/Chester_A._Arthur
+Cleveland,4 Mar 1885,4 Mar 1889,Grover Cleveland (22),blue,https://en.wikipedia.org/wiki/Grover_Cleveland
+Harrison,4 Mar 1889,4 Mar 1893,Benjamin Harrison (23),red,https://en.wikipedia.org/wiki/Benjamin_Harrison
+Cleveland,4 Mar 1893,4 Mar 1897,Grover Cleveland (24),blue,https://en.wikipedia.org/wiki/Grover_Cleveland
+McKinley,4 Mar 1897,14 Sep 1901,William McKinley (25),red,https://en.wikipedia.org/wiki/William_McKinley
+T Roosevelt,14 Sep 1901,4 Mar 1909,Theodore Roosevelt (26),red,https://en.wikipedia.org/wiki/Theodore_Roosevelt
+Taft,4 Mar 1909,4 Mar 1913,William Howard Taft (27),red,https://en.wikipedia.org/wiki/William_Howard_Taft
+Wilson,4 Mar 1913,4 Mar 1921,Woodrow Wilson (28),blue,https://en.wikipedia.org/wiki/Woodrow_Wilson
+Harding,4 Mar 1921,2 Aug 1923,Warren G Harding (29),red,https://en.wikipedia.org/wiki/Warren_G._Harding
+Coolidge,2 Aug 1923,4 Mar 1929,Calvin Coolidge (30),red,https://en.wikipedia.org/wiki/Calvin_Coolidge
+Hoover,4 Mar 1929,4 Mar 1933,Herbert Hoover (31),red,https://en.wikipedia.org/wiki/Herbert_Hoover
+F D Roosevelt,4 Mar 1933,12 Apr 1945,Franklin D Roosevelt (32),blue,https://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+Truman,12 Apr 1945,20 Jan 1953,Harry S Truman (33),blue,https://en.wikipedia.org/wiki/Harry_S._Truman
+Eisenhower,20 Jan 1953,20 Jan 1961,Dwight D Eisenhower (34),red,https://en.wikipedia.org/wiki/Dwight_D._Eisenhower
+Kennedy,20 Jan 1961,22 Nov 1963,John F Kennedy (35),blue,https://en.wikipedia.org/wiki/John_F._Kennedy
+Johnson,22 Nov 1963,20 Jan 1969,Lyndon B Johnson (36),blue,https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+Nixon,20 Jan 1969,9 Aug 1974,Richard Nixon (37),red,https://en.wikipedia.org/wiki/Richard_Nixon
+Ford,9 Aug 1974,20 Jan 1977,Gerald Ford (38),red,https://en.wikipedia.org/wiki/Gerald_Ford
+Carter,20 Jan 1977,20 Jan 1981,Jimmy Carter (39),blue,https://en.wikipedia.org/wiki/Jimmy_Carter
+Reagan,20 Jan 1981,20 Jan 1989,Ronald Reagan (40),red,https://en.wikipedia.org/wiki/Ronald_Reagan
+GHW Bush,20 Jan 1989,20 Jan 1993,George HW Bush (41),red,https://en.wikipedia.org/wiki/George_H._W._Bush
+Clinton,20 Jan 1993,20 Jan 2001,Bill Clinton (42),blue,https://en.wikipedia.org/wiki/Bill_Clinton
+GW Bush,20 Jan 2001,20 Jan 2009,George W Bush (43),red,https://en.wikipedia.org/wiki/George_W._Bush
+Obama,20 Jan 2009,20 Jan 2017,Barack Obama (44),blue,https://en.wikipedia.org/wiki/Barack_Obama
+Trump,20 Jan 2017,20 Jan 2021,Donald Trump (45),red,https://en.wikipedia.org/wiki/Donald_Trump
+Biden,20 Jan 2021,20 Jan 2025,Joe Biden (46),blue,https://en.wikipedia.org/wiki/Joe_Biden
