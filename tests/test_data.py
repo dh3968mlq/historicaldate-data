@@ -8,7 +8,7 @@ sys.path.append(hdroot)
 from historicaldate import hdpl
 
 def test1():
-    lfiles = glob.glob("data/**/*.csv", recursive=True)
+    lfiles = glob.glob("**/data/**/*.csv", recursive=True)
     for filename in lfiles:
         if "Playwrights" in filename or True:  # Allow easy focus on a problematic file
             lowfolder = filename.split("/")[-2]
