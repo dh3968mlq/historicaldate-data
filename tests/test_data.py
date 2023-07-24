@@ -3,8 +3,7 @@ import glob
 import pandas as pd
 import datetime
 
-hdroot = "/svol1/pishare/users/pi/repos/historicaldate"
-sys.path.append(hdroot)
+sys.path.append("historicaldate")
 from historicaldate import hdpl
 
 def test1():
