@@ -4,7 +4,11 @@ import pandas as pd
 import datetime
 
 sys.path.append("historicaldate")
-from historicaldate import hdpl
+#from historicaldate import hdpl
+try:
+    import historicaldate.hdpl as hdpl
+except:
+    import historicaldate.historicaldate.hdpl as hdpl
 
 def test1():
     lfiles = glob.glob("**/data/**/*.csv", recursive=True)
