@@ -1,10 +1,13 @@
+# At present these tests will run only if historicaldata is where it's expected to be...
+# Which may mean only when both historicaldate-data and historicaldate are submodules of a common project
+
 import sys
 import glob
 import pandas as pd
 import datetime
 
-sys.path.append("historicaldate")
-#from historicaldate import hdpl
+sys.path.append(".")
+
 try:
     import historicaldate.hdpl as hdpl
 except:
