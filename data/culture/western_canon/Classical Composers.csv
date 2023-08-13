@@ -1,0 +1,45 @@
+label,hdate_birth,hdate_death,url
+Mozart,27 January 1756,5 December 1791,https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+Beethoven,circa1m 17 December 1770,26 March 1827,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+JS Bach,21 March 1685,28 July 1750,https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+Chopin,1 March 1810,17 October 1849,https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin
+Handel,5 March 1685,14 April 1759,https://en.wikipedia.org/wiki/George_Frideric_Handel
+Vivaldi,4 March 1678,28 July 1741,https://en.wikipedia.org/wiki/Antonio_Vivaldi
+Tchaikovsky,7 May 1840,6 November 1893,https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky
+Wagner,22 May 1813,13 February 1883,https://en.wikipedia.org/wiki/Richard_Wagner
+Brahms,7 May 1833,3 April 1897,https://en.wikipedia.org/wiki/Johannes_Brahms
+Schubert,31 January 1797,19 November 1828,https://en.wikipedia.org/wiki/Franz_Schubert
+Debussy,22 August 1862,25 March 1918,https://en.wikipedia.org/wiki/Claude_Debussy
+Liszt,22 October 1811,31 July 1886,https://en.wikipedia.org/wiki/Franz_Liszt
+Rossini,29 February 1792,13 November 1868,https://en.wikipedia.org/wiki/Gioachino_Rossini
+Mahler,7 July 1860,18 May 1911,https://en.wikipedia.org/wiki/Gustav_Mahler
+Elgar,2 June 1857,23 February 1934,https://en.wikipedia.org/wiki/Edward_Elgar
+Rachmaninoff,1 April 1873,28 March 1943,https://en.wikipedia.org/wiki/Sergei_Rachmaninoff
+Schumann,8 June 1810,29 July 1856,https://en.wikipedia.org/wiki/Robert_Schumann
+Alessandro Scarlatti,2 May 1660,22 October 1725,https://en.wikipedia.org/wiki/Alessandro_Scarlatti
+Mendelssohn,3 February 1809,4 November 1847,https://en.wikipedia.org/wiki/Felix_Mendelssohn
+Grieg,15 June 1843,4 September 1907,https://en.wikipedia.org/wiki/Edvard_Grieg
+Verdi,circa1d 10 October 1813,27 January 1901,https://en.wikipedia.org/wiki/Giuseppe_Verdi
+Gluck,2 July 1714,15 November 1787,https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck
+Monteverdi,15 May 1567,29 November 1643,https://en.wikipedia.org/wiki/Claudio_Monteverdi
+Dvořák ,8 September 1841,1 May 1904,https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k
+Mussorgsky,21 March 1839,28 March 1881,https://en.wikipedia.org/wiki/Modest_Mussorgsky
+Haydn,31 March 1732,31 May 1809,https://en.wikipedia.org/wiki/Joseph_Haydn
+Albinoni,8 June 1671,17 January 1751,https://en.wikipedia.org/wiki/Tomaso_Albinoni
+Donizetti,29 November 1797,8 April 1848,https://en.wikipedia.org/wiki/Gaetano_Donizetti
+Bartók ,25 March 1881,26 September 1945,https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k
+Stravinsky,17 June 1882,6 April 1971,https://en.wikipedia.org/wiki/Igor_Stravinsky
+Gershwin,26 sep 1898,11 jul 1937,https://en.wikipedia.org/wiki/George_Gershwin
+Saint-Saëns ,9 October 1835,16 December 1921,https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns
+Berlioz,11 December 1803,8 March 1869,https://en.wikipedia.org/wiki/Hector_Berlioz
+César Franck,10 December 1822,8 November 1890,https://en.wikipedia.org/wiki/C%C3%A9sar_Franck
+Britten,22 November 1913,4 December 1976,https://en.wikipedia.org/wiki/Benjamin_Britten
+Bruckner,4 September 1824,11 October 1896,https://en.wikipedia.org/wiki/Anton_Bruckner
+Puccini,22 December 1858, 29 November 1924,https://en.wikipedia.org/wiki/Giacomo_Puccini
+Messiaen,10 December 1908,27 April 1992,https://en.wikipedia.org/wiki/Olivier_Messiaen
+Johann Strauss II,25 October 1825,3 June 1899,https://en.wikipedia.org/wiki/Johann_Strauss_II
+Richard Strauss,11 June 1864,8 September 1949,https://en.wikipedia.org/wiki/Richard_Strauss
+Sibelius,8 December 1865,20 September 1957,https://en.wikipedia.org/wiki/Jean_Sibelius
+Copland,14 nov 1900,2 dec 1990,https://en.wikipedia.org/wiki/Aaron_Copland
+Ravel,7 March 1875,28 December 1937,https://en.wikipedia.org/wiki/Maurice_Ravel
+CPE Bach,8 March 1714,14 December 1788,https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
