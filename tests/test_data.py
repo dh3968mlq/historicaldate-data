@@ -11,7 +11,7 @@ sys.path.append(".")
 try:
     import historicaldate.hdpl as hdpl
 except:
-    import historicaldate.historicaldate.hdpl as hdpl
+    import hdtimelines.hdtimelines.hdpl as hdpl
 
 def test1():
     lfiles = glob.glob("**/data/**/*.csv", recursive=True)
