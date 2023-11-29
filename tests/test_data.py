@@ -9,9 +9,9 @@ import datetime
 sys.path.append(".")
 
 try:
-    import historicaldate.hdpl as hdpl
+    import hdtimelines.pltimeline as pltimeline
 except:
-    import hdtimelines.hdtimelines.hdpl as hdpl
+    import hdtimelines.hdtimelines.pltimeline as pltimeline
 
 def test1():
     lfiles = glob.glob("**/data/**/*.csv", recursive=True)
@@ -20,7 +20,7 @@ def test1():
             lowfolder = filename.split("/")[-2]
             if lowfolder != "reference_tables":
                 df = pd.read_csv(filename, na_filter=False)
-                pltl = hdpl.plTimeLine()
+                pltl = pltimeline.plTimeLine()
                 try:
                     pltl.add_topic_from_df(df, title=filename,
                                     study_range_start=datetime.date(1000,1,1), study_range_end=datetime.date(2100,12,31))
