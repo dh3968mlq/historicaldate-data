@@ -1,5 +1,5 @@
 [
-    "history/europe/British Monarchs",
-    "history/europe/Events in British History",
-    "history/europe/British Prime Ministers"
+    {"filename":"history/europe/British Monarchs"},
+    {"filename":"history/europe/Events in British History"},
+    {"filename":"history/europe/British Prime Ministers"}
 ]

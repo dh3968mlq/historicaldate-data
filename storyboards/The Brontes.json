@@ -1,7 +1,7 @@
 [
-    "culture/western_canon/brontes/Charlotte Bronte",
-    "culture/western_canon/brontes/Emily Bronte",
-    "culture/western_canon/brontes/Anne Bronte",
-    "culture/western_canon/brontes/Other Brontes",
-    "history/europe/Events in British History"
+    {"filename":"culture/western_canon/brontes/Charlotte Bronte"},
+    {"filename":"culture/western_canon/brontes/Emily Bronte"},
+    {"filename":"culture/western_canon/brontes/Anne Bronte"},
+    {"filename":"culture/western_canon/brontes/Other Brontes"},
+    {"filename":"history/europe/Events in British History", "focus":0}
 ]
