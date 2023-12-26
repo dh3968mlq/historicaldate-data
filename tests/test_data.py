@@ -6,12 +6,14 @@ import glob
 import pandas as pd
 import datetime
 
-sys.path.append(".")
+# -- General idea: improves chances of tests and Sphinx builds working if this is included as a submodule
+def add_submodule(path):
+    if f"./{path}" not in sys.path:
+        sys.path.insert(0,f"../{path}") # -- Needed for Sphinx builds, usually run in the docs subdirectory
+        sys.path.insert(0,f"./{path}")  # -- For normall running. Add second so it will go first in the search order
+add_submodule("hdtimelines")
 
-try:
-    import hdtimelines.pltimeline as pltimeline
-except:
-    import hdtimelines.hdtimelines.pltimeline as pltimeline
+from hdtimelines import pltimeline
 
 def test1():
     lfiles = glob.glob("**/data/**/*.csv", recursive=True)
