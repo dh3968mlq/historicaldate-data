@@ -6,7 +6,7 @@ This data is largely based on content from [Wikipedia](https://en.wikipedia.org/
 *   [CC BY-SA 4.0: Creative Commons Attribution-ShareAlike 4.0 International License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License)
 *   [GNU Free Documentation License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License)
 
-This is a repo for openly sharing datasets of historical events and lives in a simple CSV format. All data held here is, to the best of my knowledge, open public domain information with no copyright limitations.
+This is a repo for openly sharing datasets of historical events and lives in a simple CSV format. 
 
 It is intended for use with *historicaldate*, a Python package for handling events and lives with possibly uncertain dates and displaying timelines of them. For example dates may be specified as a year, or with a 'circa' indication or as a range of possible dates. See the ReadMe at https://github.com/dh3968mlq/historicaldate for details.
 
