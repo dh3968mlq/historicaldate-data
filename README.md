@@ -2,6 +2,10 @@
 
 ![Example timeline image](https://picoteal.com/wp-content/uploads/2023/05/basic_timeline_example.png)
 
+This data is largely based on content from [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Copyrights), and so carries the following license terms:
+*   [CC BY-SA 4.0: Creative Commons Attribution-ShareAlike 4.0 International License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License)
+*   [GNU Free Documentation License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License)
+
 This is a repo for openly sharing datasets of historical events and lives in a simple CSV format. All data held here is, to the best of my knowledge, open public domain information with no copyright limitations.
 
 It is intended for use with *historicaldate*, a Python package for handling events and lives with possibly uncertain dates and displaying timelines of them. For example dates may be specified as a year, or with a 'circa' indication or as a range of possible dates. See the ReadMe at https://github.com/dh3968mlq/historicaldate for details.
@@ -12,15 +16,7 @@ It is at present a personal repo, with inevitable limitations on the amount of d
 
 ### Data guidelines
 
-(Actually, more what you'd call 'actual rules' than guidelines)
-
    * It's an English language database
-   * Dates and files must be in *historicaldate* format
-   * Information must be in the public domain and free of copyright
-   * Every row must contain a link in the *url* column to an entry English Wikipedia that at least mentions the relevant event or person.
-
-### Limitations
-
-At present *historicaldate* uses Python dates, and so is limited to AD (CE) dates. It cannot as yet deal with dates BC (BCE).
-
-
+   * Dates and files are in *historicaldate* format
+   * Information is freely available
+   * Almost all rows contain a link in the *url* column to a relevant entry English Wikipedia
