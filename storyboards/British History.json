@@ -1,7 +1,8 @@
 {
     "display_date_start":"1800",
     "topics":[
-        {"filename":"history/europe/British Monarchs"},
+        {"filename":"history/europe/English and British Monarchs"},
+        {"filename":"history/europe/Scottish Monarchs"},
         {"filename":"history/europe/Events in British History"},
         {"filename":"history/europe/British Prime Ministers"}
     ]
