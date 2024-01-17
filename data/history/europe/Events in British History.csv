@@ -1,54 +1,100 @@
-label,hdate,hdate_end,url
-Battle of Hastings,14 Oct 1066,14 Oct 1066,https://en.wikipedia.org/wiki/Battle_of_Hastings
-Domesday book,1085,1086,https://en.wikipedia.org/wiki/Domesday_Book
-The Anarchy,1138,1153,https://en.wikipedia.org/wiki/The_Anarchy
-Murder of Thomas Becket,29 Dec 1170,,https://en.wikipedia.org/wiki/Thomas_Becket
-Magna Carta,15 Jun 1215,,https://en.wikipedia.org/wiki/Magna_Carta
-First War of Scottish Independence,1296,1328,https://en.wikipedia.org/wiki/First_War_of_Scottish_Independence
-William Wallace Executed,23 Aug 1305,,https://en.wikipedia.org/wiki/William_Wallace
-Battle of Bannockburn,23 Jun 1314,24 Jun 1314,https://en.wikipedia.org/wiki/Battle_of_Bannockburn
-Hundred years war,1337,1453,https://en.wikipedia.org/wiki/Hundred_Years%27_War
-The Black Death,1346,1353,https://en.wikipedia.org/wiki/Black_Death
-Peasants revolt,30 may 1381,Between 25 jun 1381 and 26 jun 1381,https://en.wikipedia.org/wiki/Peasants%27_Revolt
-Agincourt,25 Oct 1415,,https://en.wikipedia.org/wiki/Battle_of_Agincourt
-Wars of the Roses,22 May 1455,16 Jun 1487,https://en.wikipedia.org/wiki/Wars_of_the_Roses
-Battle of Bosworth Field,22 Aug 1485,,https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field
-Execution of Mary Queen of Scots,8 Feb 1587,,"https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots"
-Spanish Armada,28 May 1588,8 Aug 1588,https://en.wikipedia.org/wiki/Spanish_Armada
-Gunpowder Plot,5 Nov 1605,,https://en.wikipedia.org/wiki/Gunpowder_Plot
-Colony of Virginia established,1606,1607,https://en.wikipedia.org/wiki/Colony_of_Virginia
-English Civil Wars,1642,1651,https://en.wikipedia.org/wiki/English_Civil_War
-Fire of London,2 sep 1666,6 sep 1666,https://en.wikipedia.org/wiki/Great_Fire_of_London
-Bank of England Established,27 Jul 1694,,https://en.wikipedia.org/wiki/Bank_of_England
-Acts of Union 1706,1706,1707,https://en.wikipedia.org/wiki/Acts_of_Union_1707
-War of Spanish Succession,1701,1715,https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession
-American War of Independence,19 Apr 1775,3 Sep 1783,https://en.wikipedia.org/wiki/American_Revolutionary_War
-The Iron Bridge opened,1781,,https://en.wikipedia.org/wiki/The_Iron_Bridge
-United Kingdom founded,1 Jan 1801,,https://en.wikipedia.org/wiki/Acts_of_Union_1800
-Battle of Trafalgar,21 Oct 1805,,https://en.wikipedia.org/wiki/Battle_of_Trafalgar
-Battle of Waterloo,18 Jun 1815,,https://en.wikipedia.org/wiki/Battle_of_Waterloo
-Conservative party founded,1834,,https://en.wikipedia.org/wiki/Conservative_Party_(UK)
-Crimean War,Oct 1853,Feb 1856,https://en.wikipedia.org/wiki/Crimean_War
-Labour party founded,Circa 1900,,https://en.wikipedia.org/wiki/Labour_Party_(UK)
-Titanic sinks,15 Apr 1912,,https://en.wikipedia.org/wiki/Titanic
-World War I,28 Jul 1914,11 Nov 1918,https://en.wikipedia.org/wiki/World_War_I
-Equal votes for women,1928,,https://en.wikipedia.org/wiki/Representation_of_the_People_(Equal_Franchise)_Act_1928
-General Strike,4 May 1926,12 May 1926,https://en.wikipedia.org/wiki/1926_United_Kingdom_general_strike
-World War II,1 Sep 1939,14 Aug 1945,https://en.wikipedia.org/wiki/World_War_II
-Indian independence,15 Aug 1947,,https://en.wikipedia.org/wiki/Independence_Day_(India)
-NHS founded,5 Jul 1948,,https://en.wikipedia.org/wiki/National_Health_Service
-Death penalty abolished,1969,,https://en.wikipedia.org/wiki/Capital_punishment_in_the_United_Kingdom
-UK joins EEC,1 Jan 1973,,https://en.wikipedia.org/wiki/Accession_of_the_United_Kingdom_to_the_European_Communities
-Falklands conflict,2 Apr 1982,14 Jun 1982,https://en.wikipedia.org/wiki/Falklands_War
-Miners strike,6 Mar 1984,3 Mar 1985,https://en.wikipedia.org/wiki/UK_miners%27_strike_(1984%E2%80%9385)
-Handover of Hong Kong,1 Jul 1997,,https://en.wikipedia.org/wiki/Handover_of_Hong_Kong
-Good Friday agreement,10 Apr 1998,,https://en.wikipedia.org/wiki/Good_Friday_Agreement
-Iraq war,20 Mar 2003,Dec 2011,https://en.wikipedia.org/wiki/Iraq_War
-EU referendum,23 Jun 2016,,https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum
-UK leaves EU,31 Jan 2020,,https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum
-Coronavirus pandemic,Jan 2020,5 may 2023,https://en.wikipedia.org/wiki/COVID-19_pandemic
-Maastricht Treaty,7 Feb 1992,,https://en.wikipedia.org/wiki/Maastricht_Treaty
-Dissolution of monasteries,1536,1541,https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries
-Plague of London,1665,1666,https://en.wikipedia.org/wiki/Great_Plague_of_London
-Irish Independence,6 Dec 1921,,https://en.wikipedia.org/wiki/Anglo-Irish_Treaty
-Some votes for women,1918,,https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_Kingdom#Parliament_expands_suffrage_1918
+label,hdate,hdate_end,approx_year,url,max_xrange_years
+Caesar’s invasions or Britain,55 BC,54 BC,-55,https://en.wikipedia.org/wiki/Julius_Caesar%27s_invasions_of_Britain,
+Roman conquest of Britain,43,43,43,https://en.wikipedia.org/wiki/Roman_conquest_of_Britain,
+London founded,Between 47 and 50,,50,https://en.wikipedia.org/wiki/Londinium,
+Boudica defeated,61,,61,https://en.wikipedia.org/wiki/Boudican_revolt,
+Hadrian’s Wall begun,122,,122,https://en.wikipedia.org/wiki/Hadrian%27s_Wall,
+Antonine Wall begun,142,,142,https://en.wikipedia.org/wiki/Antonine_Wall,
+Britain divided,214,,214,https://en.wikipedia.org/wiki/Britannia_Superior,
+Carausian revolt ,286,296,286,https://en.wikipedia.org/wiki/Carausian_revolt,
+Roman withdrawal from Britain,c. 383,410,400,https://en.wikipedia.org/wiki/Timeline_of_British_history_(before_1000),
+Arrival of St. Augustine,597,,597,https://en.wikipedia.org/wiki/Augustine_of_Canterbury,
+Viking invasions,c. 789,878,800,https://en.wikipedia.org/wiki/Invasions_of_the_British_Isles#Viking_raids_and_invasions,
+Danelaw established,878,,878,https://en.wikipedia.org/wiki/Danelaw,
+Battle of Hastings,14 Oct 1066,14 Oct 1066,1066,https://en.wikipedia.org/wiki/Battle_of_Hastings,
+Domesday book,1085,1086,1085,https://en.wikipedia.org/wiki/Domesday_Book,
+The White Tower completed,1100,,1100,https://en.wikipedia.org/wiki/White_Tower_(Tower_of_London),150
+The Anarchy,1138,1153,1138,https://en.wikipedia.org/wiki/The_Anarchy,
+Murder of Thomas Becket,29 Dec 1170,,1170,https://en.wikipedia.org/wiki/Thomas_Becket,
+Richard I held captive,Dec 1192,4 Feb 1194,1193,"https://en.wikipedia.org/wiki/Richard_I_of_England#Captivity,_ransom_and_return",150
+John excommunicated,Nov 1209,,1209,"https://en.wikipedia.org/wiki/John,_King_of_England#Dispute_with_the_Pope_and_excommunication",150
+Magna Carta,15 Jun 1215,,1215,https://en.wikipedia.org/wiki/Magna_Carta,
+England annexes Wales,Jul 1277,,1277,https://en.wikipedia.org/wiki/Wales_in_the_High_Middle_Ages,
+First War of Scottish Independence,1296,1328,1296,https://en.wikipedia.org/wiki/First_War_of_Scottish_Independence,
+Battle of Stirling Bridge,11 Sep 1297,,1297,https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge,150
+William Wallace Executed,23 Aug 1305,,1305,https://en.wikipedia.org/wiki/William_Wallace,150
+Battle of Bannockburn,23 Jun 1314,24 Jun 1314,1314,https://en.wikipedia.org/wiki/Battle_of_Bannockburn,150
+Hundred years war,1337,1453,1337,https://en.wikipedia.org/wiki/Hundred_Years%27_War,
+The Black Death,1346,1353,1346,https://en.wikipedia.org/wiki/Black_Death,
+Battle of Poitiers,19 Sep 1356,,1356,https://en.wikipedia.org/wiki/Battle_of_Poitiers,150
+Peasants revolt,30 may 1381,Between 25 jun 1381 and 26 jun 1381,1381,https://en.wikipedia.org/wiki/Peasants%27_Revolt,
+Battle of Agincourt,25 Oct 1415,,1415,https://en.wikipedia.org/wiki/Battle_of_Agincourt,150
+Wars of the Roses,22 May 1455,16 Jun 1487,1455,https://en.wikipedia.org/wiki/Wars_of_the_Roses,
+Battle of Bosworth Field,22 Aug 1485,,1485,https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field,150
+Battle of Stoke,16 Jun 1487,,1487,https://en.wikipedia.org/wiki/Battle_of_Stoke_Field,150
+Battle of Flodden,9 Sep 1513,,1513,https://en.wikipedia.org/wiki/Battle_of_Flodden,150
+Royal Mail established,1516,,1516,https://en.wikipedia.org/wiki/Royal_Mail,150
+Act of Supremacy,3 Nov 1534,,1534,https://en.wikipedia.org/wiki/Acts_of_Supremacy,150
+Execution of John Fisher,22 Jun 1535,,1535,https://en.wikipedia.org/wiki/John_Fisher,150
+Execution of Thomas More,6 Jul 1535,,1535,https://en.wikipedia.org/wiki/Thomas_More,150
+Dissolution of monasteries,1536,1541,1536,https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries,
+Act of Supremacy,1559,,1559,https://en.wikipedia.org/wiki/Act_of_Supremacy_1558,150
+Execution of Mary Queen of Scots,8 Feb 1587,,1587,"https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",150
+Spanish Armada,28 May 1588,8 Aug 1588,1588,https://en.wikipedia.org/wiki/Spanish_Armada,150
+Gunpowder Plot,5 Nov 1605,,1605,https://en.wikipedia.org/wiki/Gunpowder_Plot,150
+Colony of Virginia established,10 Apr 1606,1607,1606,https://en.wikipedia.org/wiki/Colony_of_Virginia,150
+Execution of Walter Raleigh,29 Oct 1618,,1618,https://en.wikipedia.org/wiki/Walter_Raleigh,150
+English Civil Wars,1642,1651,1642,https://en.wikipedia.org/wiki/English_Civil_War,
+Plague of London,1665,1666,1665,https://en.wikipedia.org/wiki/Great_Plague_of_London,150
+Fire of London,2 sep 1666,6 sep 1666,1666,https://en.wikipedia.org/wiki/Great_Fire_of_London,
+Bank of England Established,27 Jul 1694,,1694,https://en.wikipedia.org/wiki/Bank_of_England,150
+War of Spanish Succession,1701,1715,1701,https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession,
+Acts of Union 1706,1706,1707,1706,https://en.wikipedia.org/wiki/Acts_of_Union_1707,150
+American War of Independence,19 Apr 1775,3 Sep 1783,1775,https://en.wikipedia.org/wiki/American_Revolutionary_War,
+The Iron Bridge opened,1781,,1781,https://en.wikipedia.org/wiki/The_Iron_Bridge,150
+United Kingdom founded,1 Jan 1801,,1801,https://en.wikipedia.org/wiki/Acts_of_Union_1800,
+Battle of Trafalgar,21 Oct 1805,,1805,https://en.wikipedia.org/wiki/Battle_of_Trafalgar,150
+Slave Trade Act,25 Mar 1807,,1807,https://en.wikipedia.org/wiki/Slave_Trade_Act_1807,150
+Battle of Waterloo,18 Jun 1815,,1815,https://en.wikipedia.org/wiki/Battle_of_Waterloo,150
+Great Reform Act,7 Jun 1832,,1832,https://en.wikipedia.org/wiki/Reform_Act_1832,150
+Slavery Abolition Act,28 Aug 1833,,1833,https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833,150
+Conservative party founded,1834,,1834,https://en.wikipedia.org/wiki/Conservative_Party_(UK),150
+Repeal of Corn Laws,27 Jan 1846,,1846,https://en.wikipedia.org/wiki/Corn_Laws,150
+Crimean War,Oct 1853,Feb 1856,1853,https://en.wikipedia.org/wiki/Crimean_War,
+Death of Prince Albert,14 Dec 1861,,1861,https://en.wikipedia.org/wiki/Prince_Albert_of_Saxe-Coburg_and_Gotha,150
+Education Act,17 Feb 1870,,1870,https://en.wikipedia.org/wiki/Elementary_Education_Act_1870,150
+Reform Act,25 Jun 1885,,1885,https://en.wikipedia.org/wiki/Redistribution_of_Seats_Act_1885,150
+Second Boer War,11 October 1899,31 May 1902,1900,https://en.wikipedia.org/wiki/Second_Boer_War,
+Labour party founded,27 Feb 1900,,1900,https://en.wikipedia.org/wiki/Labour_Party_(UK),150
+Entente Cordiale,8 Apr 1904,,1904,https://en.wikipedia.org/wiki/Entente_Cordiale,150
+Old age pensions,27 Oct 1908,,1908,https://en.wikipedia.org/wiki/Old_Age_Pensions_Act_1908,150
+Royal Flying Corps,13 Apr 1912,,1912,https://en.wikipedia.org/wiki/Royal_Flying_Corps,150
+Titanic sinks,15 Apr 1912,,1912,https://en.wikipedia.org/wiki/Titanic,150
+World War I,28 Jul 1914,11 Nov 1918,1914,https://en.wikipedia.org/wiki/World_War_I,
+First votes for women,6 Feb 1918,,1918,https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_Kingdom#Parliament_expands_suffrage_1918,150
+RAF founded,1 Apr 1918,,1918,https://en.wikipedia.org/wiki/Royal_Air_Force,150
+Irish Independence,6 Dec 1921,,1921,https://en.wikipedia.org/wiki/Anglo-Irish_Treaty,150
+BBC founded,18 Oct 1922,,1922,https://en.wikipedia.org/wiki/BBC,150
+General Strike,4 May 1926,12 May 1926,1926,https://en.wikipedia.org/wiki/1926_United_Kingdom_general_strike,150
+Equal votes for women,2 Jul 1928,,1928,https://en.wikipedia.org/wiki/Representation_of_the_People_(Equal_Franchise)_Act_1928,150
+Jarrow March,5 Oct 1936,31 Oct 1936,1937,https://en.wikipedia.org/wiki/Jarrow_March,150
+World War II,1 Sep 1939,14 Aug 1945,1939,https://en.wikipedia.org/wiki/World_War_II,
+UN founded,24 Oct 1945,,1945,https://en.wikipedia.org/wiki/United_Nations,150
+Indian independence,15 Aug 1947,,1947,https://en.wikipedia.org/wiki/Independence_Day_(India),150
+NHS founded,5 Jul 1948,,1948,https://en.wikipedia.org/wiki/National_Health_Service,
+Beeching report,27 Mar 1963,,1963,https://en.wikipedia.org/wiki/Beeching_cuts,150
+Death penalty abolished,8 Nov 1965,,1965,https://en.wikipedia.org/wiki/Capital_punishment_in_the_United_Kingdom,150
+Homosexuality legalised,27 Jul 1967,,1967,https://en.wikipedia.org/wiki/Sexual_Offences_Act_1967,150
+Decimal currency,15 feb 1971,,1971,https://en.wikipedia.org/wiki/Decimal_Day,150
+UK joins EEC,1 Jan 1973,,1973,https://en.wikipedia.org/wiki/Accession_of_the_United_Kingdom_to_the_European_Communities,
+Falklands conflict,2 Apr 1982,14 Jun 1982,1982,https://en.wikipedia.org/wiki/Falklands_War,
+Miners strike,6 Mar 1984,3 Mar 1985,1984,https://en.wikipedia.org/wiki/UK_miners%27_strike_(1984%E2%80%9385),150
+Maastricht Treaty,7 Feb 1992,,1992,https://en.wikipedia.org/wiki/Maastricht_Treaty,150
+Channel tunnel,6 May 1994,,1994,https://en.wikipedia.org/wiki/Channel_Tunnel,150
+Handover of Hong Kong,1 Jul 1997,,1997,https://en.wikipedia.org/wiki/Handover_of_Hong_Kong,150
+Good Friday agreement,10 Apr 1998,,1998,https://en.wikipedia.org/wiki/Good_Friday_Agreement,150
+Iraq war,20 Mar 2003,Dec 2011,2003,https://en.wikipedia.org/wiki/Iraq_War,
+Same-sex marriage,17 Jul 2013,,2013,https://en.wikipedia.org/wiki/Marriage_(Same_Sex_Couples)_Act_2013,150
+EU referendum,23 Jun 2016,,2016,https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum,150
+Coronavirus pandemic,Jan 2020,5 may 2023,2020,https://en.wikipedia.org/wiki/COVID-19_pandemic,
+UK leaves EU,31 Jan 2020,,2020,https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum,

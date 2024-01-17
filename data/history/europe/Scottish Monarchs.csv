@@ -1,44 +1,44 @@
-label,hdate,hdate_end,hdate_birth,hdate_death,url
-Kenneth I,Between 843 and 848,13 Feb 858,810,13 Feb 858,https://en.wikipedia.org/wiki/Kenneth_MacAlpin
-Donald I,858 after 13 Feb 858,13 Apr 862,812,13 Apr 862,https://en.wikipedia.org/wiki/Domnall_mac_Ailp%C3%ADn
-Constantine I,862 after 13 Apr 862,877,c. 836,877,https://en.wikipedia.org/wiki/Causant%C3%ADn_mac_Cin%C3%A1eda
-Áed mac Cináeda ,877,878,,878,https://en.wikipedia.org/wiki/%C3%81ed_mac_Cin%C3%A1eda
-Giric,878,889,c. 832,c. 890 after 889,https://en.wikipedia.org/wiki/Giric
-Eochaid,878,c. 889,,,https://en.wikipedia.org/wiki/Eochaid_ab_Rhun
-Donald II,889,900,c. 30 Jun 862,Apr 900,https://en.wikipedia.org/wiki/Donald_II_of_Scotland
-Constantine II,900,943,Before 879,952,https://en.wikipedia.org/wiki/Constantine_II_of_Scotland
-Malcolm I,943,954,5 Oct 897,954,https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland
-Indulf,954,962,c. 927,962,https://en.wikipedia.org/wiki/Indulf
-Dub,962,967,c. 928,967,"https://en.wikipedia.org/wiki/Dub,_King_of_Scotland"
-Cuilén ,967,971,,971,https://en.wikipedia.org/wiki/Cuil%C3%A9n
-Amlaíb ,973,977,,977,"https://en.wikipedia.org/wiki/Amla%C3%ADb,_King_of_Scotland"
-Kenneth II,971,995,,995,https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland
-Constantine III,995,997,c. 970,997,https://en.wikipedia.org/wiki/Constantine_III_of_Scotland
-Kenneth III,997,25 Mar 1005,c. 966,25 Mar 1005,https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland
-Malcolm II,25 Mar 1005,25 Nov 1034,c. 954,25 Nov 1034,https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland
-Duncan I,25 Nov 1034,14 Aug 1040,c. 1001,14 Aug 1040,https://en.wikipedia.org/wiki/Duncan_I_of_Scotland
-Macbeth,14 Aug 1040,15 Aug 1057,1005,15 Aug 1057,"https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland"
-Lulach,15 Aug 1057,17 Mar 1058,c. 1032,17 Mar 1058,https://en.wikipedia.org/wiki/Lulach
-Malcolm III,17 Mar 1058,13 Nov 1093,c. 1031,13 Nov 1093,https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland
-Donald III,Dec 1093,1094,c. 1032,1099,https://en.wikipedia.org/wiki/Donald_III_of_Scotland
-Duncan II,May 1094,12 Nov 1094,c. 1060,12 Nov 1094,https://en.wikipedia.org/wiki/Duncan_II_of_Scotland
-Edgar,1097,8 Jan 1107,c. 1074,8 Jan 1107,"https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland"
-Alexander I,8 Jan 1107,23 Apr 1124,c. 1078,23 Apr 1124,https://en.wikipedia.org/wiki/Alexander_I_of_Scotland
-David I,23 Apr 1124,24 May 1153,c. 1084,24 May 1153,https://en.wikipedia.org/wiki/David_I_of_Scotland
-Malcolm IV,24 May 1153,9 Dec 1165,Between 24 Apr 1141 and 23 May 1141,9 Dec 1165,https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland
-William I,9 Dec 1165,4 Dec 1214,c. 1142,4 Dec 1214,https://en.wikipedia.org/wiki/William_the_Lion
-Alexander II,4 Dec 1214,6 Jul 1249,24 Aug 1198,6 Jul 1249,https://en.wikipedia.org/wiki/Alexander_II_of_Scotland
-Alexander III,6 Jul 1249,19 Mar 1286,4 Sep 1241,19 Mar 1286,https://en.wikipedia.org/wiki/Alexander_III_of_Scotland
-Margaret,19 Mar 1286,Sep 1290,Between March 1283 and April 1283,Sep 1290,"https://en.wikipedia.org/wiki/Margaret,_Maid_of_Norway"
-John Balliol,17 Nov 1292,10 Jul 1296,c. 1249,1314,https://en.wikipedia.org/wiki/John_Balliol
-Robert I,25 Mar 1306,7 Jun 1329,11 Jul 1274,7 Jun 1329,https://en.wikipedia.org/wiki/Robert_the_Bruce
-David II,7 Jun 1329,22 Feb 1371,5 Mar 1324,22 Feb 1371,https://en.wikipedia.org/wiki/David_II_of_Scotland
-Robert II,22 Feb 1371,19 Apr 1390, Mar 1316,19 Apr 1390,https://en.wikipedia.org/wiki/Robert_II_of_Scotland
-Robert III,19 Apr 1390,4 Apr 1406,c. 1337,4 Apr 1406,https://en.wikipedia.org/wiki/Robert_III_of_Scotland
-James I,4 Apr 1406,21 Feb 1437,25 Jul 1394,21 Feb 1437,https://en.wikipedia.org/wiki/James_I_of_Scotland
-James II,21 Feb 1437,3 Aug 1460,16 Oct 1430,3 Aug 1460,https://en.wikipedia.org/wiki/James_II_of_Scotland
-James III,3 Aug 1460,11 Jun 1488,Between Jul 1451 and May 1452,11 Jun 1488,https://en.wikipedia.org/wiki/James_III_of_Scotland
-James IV,11 Jun 1488,9 Sep 1513,17 Mar 1473,9 Sep 1513,https://en.wikipedia.org/wiki/James_IV_of_Scotland
-James V,9 Sep 1513,14 Dec 1542,10 Apr 1512,14 Dec 1542,https://en.wikipedia.org/wiki/James_V_of_Scotland
-Mary I,14 Dec 1542,24 Jul 1567,8 Dec 1542,8 February 1587,"https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots"
-James VI,24 Jul 1567,27 March 1625,19 June 1566,27 March 1625,https://en.wikipedia.org/wiki/James_VI_and_I
+label,hdate,hdate_end,hdate_birth,hdate_death,url,description
+Kenneth I,Between 843 and 848,13 Feb 858,810,13 Feb 858,https://en.wikipedia.org/wiki/Kenneth_MacAlpin,
+Donald I,858 after 13 Feb 858,13 Apr 862,812,13 Apr 862,https://en.wikipedia.org/wiki/Domnall_mac_Ailp%C3%ADn,
+Constantine I,862 after 13 Apr 862,877,c. 836,877,https://en.wikipedia.org/wiki/Causant%C3%ADn_mac_Cin%C3%A1eda,
+Áed mac Cináeda ,877,878,,878,https://en.wikipedia.org/wiki/%C3%81ed_mac_Cin%C3%A1eda,
+Giric,878,889,c. 832,c. 890 after 889,https://en.wikipedia.org/wiki/Giric,
+Eochaid,878,c. 889,,,https://en.wikipedia.org/wiki/Eochaid_ab_Rhun,
+Donald II,889,900,c. 30 Jun 862,Apr 900,https://en.wikipedia.org/wiki/Donald_II_of_Scotland,
+Constantine II,900,943,Before 879,952,https://en.wikipedia.org/wiki/Constantine_II_of_Scotland,
+Malcolm I,943,954,5 Oct 897,954,https://en.wikipedia.org/wiki/Malcolm_I_of_Scotland,
+Indulf,954,962,c. 927,962,https://en.wikipedia.org/wiki/Indulf,
+Dub,962,967,c. 928,967,"https://en.wikipedia.org/wiki/Dub,_King_of_Scotland",
+Cuilén ,967,971,,971,https://en.wikipedia.org/wiki/Cuil%C3%A9n,
+Amlaíb ,973,977,,977,"https://en.wikipedia.org/wiki/Amla%C3%ADb,_King_of_Scotland",
+Kenneth II,971,995,,995,https://en.wikipedia.org/wiki/Kenneth_II_of_Scotland,
+Constantine III,995,997,c. 970,997,https://en.wikipedia.org/wiki/Constantine_III_of_Scotland,
+Kenneth III,997,25 Mar 1005,c. 966,25 Mar 1005,https://en.wikipedia.org/wiki/Kenneth_III_of_Scotland,
+Malcolm II,25 Mar 1005,25 Nov 1034,c. 954,25 Nov 1034,https://en.wikipedia.org/wiki/Malcolm_II_of_Scotland,
+Duncan I,25 Nov 1034,14 Aug 1040,c. 1001,14 Aug 1040,https://en.wikipedia.org/wiki/Duncan_I_of_Scotland,
+Macbeth,14 Aug 1040,15 Aug 1057,1005,15 Aug 1057,"https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
+Lulach,15 Aug 1057,17 Mar 1058,c. 1032,17 Mar 1058,https://en.wikipedia.org/wiki/Lulach,
+Malcolm III,17 Mar 1058,13 Nov 1093,c. 1031,13 Nov 1093,https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland,
+Donald III,Dec 1093,1094,c. 1032,1099,https://en.wikipedia.org/wiki/Donald_III_of_Scotland,
+Duncan II,May 1094,12 Nov 1094,c. 1060,12 Nov 1094,https://en.wikipedia.org/wiki/Duncan_II_of_Scotland,
+Edgar,1097,8 Jan 1107,c. 1074,8 Jan 1107,"https://en.wikipedia.org/wiki/Edgar,_King_of_Scotland",
+Alexander I,8 Jan 1107,23 Apr 1124,c. 1078,23 Apr 1124,https://en.wikipedia.org/wiki/Alexander_I_of_Scotland,
+David I,23 Apr 1124,24 May 1153,c. 1084,24 May 1153,https://en.wikipedia.org/wiki/David_I_of_Scotland,
+Malcolm IV,24 May 1153,9 Dec 1165,Between 24 Apr 1141 and 23 May 1141,9 Dec 1165,https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland,
+William I,9 Dec 1165,4 Dec 1214,c. 1142,4 Dec 1214,https://en.wikipedia.org/wiki/William_the_Lion,
+Alexander II,4 Dec 1214,6 Jul 1249,24 Aug 1198,6 Jul 1249,https://en.wikipedia.org/wiki/Alexander_II_of_Scotland,
+Alexander III,6 Jul 1249,19 Mar 1286,4 Sep 1241,19 Mar 1286,https://en.wikipedia.org/wiki/Alexander_III_of_Scotland,
+Margaret,19 Mar 1286,Sep 1290,Between March 1283 and April 1283,Sep 1290,"https://en.wikipedia.org/wiki/Margaret,_Maid_of_Norway",
+John Balliol,17 Nov 1292,10 Jul 1296,c. 1249,1314,https://en.wikipedia.org/wiki/John_Balliol,
+Robert I,25 Mar 1306,7 Jun 1329,11 Jul 1274,7 Jun 1329,https://en.wikipedia.org/wiki/Robert_the_Bruce,
+David II,7 Jun 1329,22 Feb 1371,5 Mar 1324,22 Feb 1371,https://en.wikipedia.org/wiki/David_II_of_Scotland,
+Robert II,22 Feb 1371,19 Apr 1390, Mar 1316,19 Apr 1390,https://en.wikipedia.org/wiki/Robert_II_of_Scotland,
+Robert III,19 Apr 1390,4 Apr 1406,c. 1337,4 Apr 1406,https://en.wikipedia.org/wiki/Robert_III_of_Scotland,
+James I,4 Apr 1406,21 Feb 1437,25 Jul 1394,21 Feb 1437,https://en.wikipedia.org/wiki/James_I_of_Scotland,
+James II,21 Feb 1437,3 Aug 1460,16 Oct 1430,3 Aug 1460,https://en.wikipedia.org/wiki/James_II_of_Scotland,
+James III,3 Aug 1460,11 Jun 1488,Between Jul 1451 and May 1452,11 Jun 1488,https://en.wikipedia.org/wiki/James_III_of_Scotland,
+James IV,11 Jun 1488,9 Sep 1513,17 Mar 1473,9 Sep 1513,https://en.wikipedia.org/wiki/James_IV_of_Scotland,
+James V,9 Sep 1513,14 Dec 1542,10 Apr 1512,14 Dec 1542,https://en.wikipedia.org/wiki/James_V_of_Scotland,
+Mary I,14 Dec 1542,24 Jul 1567,8 Dec 1542,8 February 1587,"https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots","Mary, Queen of Scots"
+James VI,24 Jul 1567,27 March 1625,19 June 1566,27 March 1625,https://en.wikipedia.org/wiki/James_VI_and_I,James VI of Scotland and I of England
