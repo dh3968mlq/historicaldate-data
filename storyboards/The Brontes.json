@@ -1,9 +1,9 @@
 {
     "topics":[
-        {"filename":"Culture/western_canon/brontes/Charlotte Bronte"},
-        {"filename":"Culture/western_canon/brontes/Emily Bronte"},
-        {"filename":"Culture/western_canon/brontes/Anne Bronte"},
-        {"filename":"Culture/western_canon/brontes/Other Brontes"},
-        {"filename":"History/europe/Events in British History", "focus":"y"}
+        {"filename":"Culture/Western Canon/The Brontes/Charlotte Bronte"},
+        {"filename":"Culture/Western Canon/The Brontes/Emily Bronte"},
+        {"filename":"Culture/Western Canon/The Brontes/Anne Bronte"},
+        {"filename":"Culture/Western Canon/The Brontes/Other Brontes"},
+        {"filename":"History/Europe/Events in British History", "focus":"y"}
     ]
 }
